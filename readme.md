@@ -15,25 +15,25 @@ Você pode usar do jeito que quiser, o projeto não limita o uso.
 
 
 
-<input type="checkbox" disabled checked /> <span>Rotas dinamicas</span>
+- [x] <span>Rotas dinamicas</span>
 <br />
-<input type="checkbox" disabled checked /> <span>Porta costumizavel</span>
+- [x]  <span>Porta costumizavel</span>
 <br />
 <input type="checkbox" disabled/> <span>Controllers</span>
 <br />
 <input type="checkbox" disabled/> <span>Middlewares</span>
 <br />
-<input type="checkbox" disabled /> <span>Template Engine</span>
+- [ ]  <span>Template Engine</span>
 <br />
-<input type="checkbox" disabled checked /> <span>Typescript</span>
+- [x]  <span>Typescript</span>
 <br />
-<input type="checkbox" disabled checked /> <span>Nodemon</span>
+- [x]  <span>Nodemon</span>
 <br />
-<input type="checkbox" disabled /> <span>JWT</span>
+- [ ]  <span>JWT</span>
 <br />
-<input type="checkbox" disabled /> <span>BCrypt/Hashing</span>
+- [ ]  <span>BCrypt/Hashing</span>
 <br />
-<input type="checkbox" disabled /> <span>Models</span>
+- [ ]  <span>Models</span>
 <br />
-<input type="checkbox" disabled /> <span>ORM/TypeORM</span>
+- [ ]  <span>ORM/TypeORM</span>
 
