@@ -5,7 +5,7 @@
 <h5> Esse projeto foi feito para facilitar a criação de api's. </h5>
 
 ```
-$> yarn add https://github.com/rafagouveia/api-typescript-boilerplate.git
+$> git clone https://github.com/rafagouveia/api-typescript-boilerplate.git
 $> cd api-typescript-boilerplate
 ```
 
