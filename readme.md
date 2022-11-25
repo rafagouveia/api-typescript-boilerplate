@@ -16,24 +16,14 @@ Você pode usar do jeito que quiser, o projeto não limita o uso.
 
 
 - [x] <span>Rotas dinamicas</span>
-<br />
 - [x]  <span>Porta costumizavel</span>
-<br />
-<input type="checkbox" disabled/> <span>Controllers</span>
-<br />
-<input type="checkbox" disabled/> <span>Middlewares</span>
-<br />
+- [ ] <span>Controllers</span>
+- [ ] <span>Middlewares</span>
 - [ ]  <span>Template Engine</span>
-<br />
 - [x]  <span>Typescript</span>
-<br />
 - [x]  <span>Nodemon</span>
-<br />
 - [ ]  <span>JWT</span>
-<br />
 - [ ]  <span>BCrypt/Hashing</span>
-<br />
 - [ ]  <span>Models</span>
-<br />
 - [ ]  <span>ORM/TypeORM</span>
 
