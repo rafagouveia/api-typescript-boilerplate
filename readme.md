@@ -17,13 +17,13 @@ Você pode usar do jeito que quiser, o projeto não limita o uso.
 
 - [x] <span>Rotas dinamicas</span>
 - [x]  <span>Porta costumizavel</span>
-- [ ] <span>Controllers</span>
-- [ ] <span>Middlewares</span>
+- [x] <span>Controllers</span>
+- [x] <span>Middlewares</span>
 - [ ]  <span>Template Engine</span>
 - [x]  <span>Typescript</span>
 - [x]  <span>Nodemon</span>
-- [ ]  <span>JWT</span>
-- [ ]  <span>BCrypt/Hashing</span>
-- [ ]  <span>Models</span>
-- [ ]  <span>ORM/TypeORM</span>
+- [x]  <span>JWT</span>
+- [x]  <span>BCrypt/Hashing</span>
+- [x]  <span>Models</span>
+- [x]  <span>ORM/TypeORM</span>
 
